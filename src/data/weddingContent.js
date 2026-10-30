@@ -6,7 +6,7 @@ export const weddingContent = {
     title: 'A Love That Lasts Forever',
     quote:
       'Giữa muôn vàn cuộc gặp gỡ, thật đẹp khi hai người đã tìm thấy nhau.',
-    closing: 'Bạn Ngọc Trâm ♡',
+    closing: 'Ngọc Trâm',
   },
   letter: [
     'Có những cuộc gặp gỡ chỉ thoáng qua trong cuộc đời, nhưng cũng có những cuộc gặp gỡ trở thành khởi đầu của một hành trình mãi mãi.',
