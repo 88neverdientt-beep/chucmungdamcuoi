@@ -32,8 +32,8 @@ export default function HeartfeltLetter() {
         </div>
 
         <div className="letter-signoff">
-          <p>Thân gửi hai bạn,</p>
-          <p>{couple.closing}</p>
+          <p className="letter-salutation">Thân gửi hai bạn,</p>
+          <p className="letter-signature">{couple.closing}</p>
         </div>
       </motion.div>
     </section>
