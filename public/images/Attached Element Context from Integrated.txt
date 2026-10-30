@@ -1,0 +1,79 @@
+Attached Element Context from Integrated Browser
+
+Element: p.envelope-title
+
+URL: http://localhost:5173/
+
+HTML Path: p.envelope-title
+
+Outer HTML:
+```html
+<p class="envelope-title">Vân Hùng &amp; Thảo Vi</p>
+```
+
+Dimensions:
+- top: 630px
+- left: 284px
+- width: 418px
+- height: 40px
+
+CSS:
+```css
+*, ::after, ::before, ::backdrop, ::file-selector-button { box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0 solid; }
+* { box-sizing: border-box; }
+.envelope-title { position: absolute;
+  z-index: 5;
+  top: 193px;
+  left: 0;
+  width: 100%;
+  margin: 0;
+  color: var(--green-deep);
+  font-family: var(--serif);
+  font-size: clamp(1.7rem, 4vw, 2.25rem);
+  font-weight: 600;
+  line-height: 1.12; }
+
+/* Inherited */
+.envelope-paper { color: var(--green-deep); text-align: center }
+.intro-content { text-align: center }
+body { color: var(--charcoal) }
+html, :host { line-height: 1.5; tab-size: 4; font-family: var(--default-font-family, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"); font-feature-settings: var(--default-font-feature-settings, normal) }
+:root { font-family: 'Be Vietnam Pro', 'Segoe UI', sans-serif; line-height: 1.5; font-weight: 400; color: #383c38 }
+
+/* Resolved values */
+margin: 0px;
+padding: 0px;
+border: 0px solid rgb(78, 112, 92);
+box-sizing: border-box;
+color: rgb(78, 112, 92);
+display: block;
+font-family: "Cormorant Garamond", Georgia, serif;
+font-feature-settings: normal;
+font-size: 36px;
+font-weight: 600;
+height: 40.3125px;
+left: 0px;
+line-height: 40.32px;
+margin-block-end: 0px /*UA*/;
+margin-block-start: 0px /*UA*/;
+margin-inline-end: 0px /*UA*/;
+margin-inline-start: 0px /*UA*/;
+position: absolute;
+tab-size: 4;
+text-align: center;
+top: 193px;
+unicode-bidi: isolate /*UA*/;
+width: 418px;
+z-index: 5;
+
+/* CSS variables */
+--green-deep: #4e705c;
+--serif: 'Cormorant Garamond', Georgia, serif;
+--charcoal: #383c38;
+--default-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
+      "Noto Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+      "Segoe UI Symbol", "Noto Color Emoji";
+```
